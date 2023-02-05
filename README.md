@@ -1,11 +1,3 @@
-### Hi there 👋
-
-<!--
-**Chandro99/Chandro99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 <p align="center">
 <a href="https://alienrazor.github.io/Alienrazor.io/"><img width="100%" alt="Hello, I'm Alienrazor. I do open source!" src="https://user-images.githubusercontent.com/52023076/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif" /></a></p>
 
