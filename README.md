@@ -7,16 +7,16 @@
  
 
 <h1 align=center>🔥WELCOME TO RC WORLD🔥</h1>
+<p align="center"> 
+ <img src="https://github.com/Chandro99/Chandro99/blob/main/coding.gif" />
+</p>
 
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Chandro99"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Chandro99&theme=monokai"></a>
 </p>  
-<p align="center"> 
- >>>RC Training center<<<
- <img src="https://github.com/Chandro99/Chandro99/blob/main/coding.gif" />
-</p>
+
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alienrazor&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
 
