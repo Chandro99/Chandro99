@@ -1,17 +1,14 @@
 <p align="center">
 <a href="https://chandro.xyz/"><img width="100%" alt="Hello, I'm Chandro. I do open source!" src="https://github.com/Chandro99/Chandro99/blob/main/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif" /></a></p>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&pause=1000&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hi+I'm+Alienrazor......;I+Do+Open+Source.......;" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&pause=1000&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hi+I'm+Chandro......;I+Do+Open+Source.......;" alt="Typing SVG" /></a>
 
  
  
 
-<h1 align=center>🔥WELCOME TO ALIENRAZOR WORLD🔥</h1>
+<h1 align=center>🔥WELCOME TO RC WORLD🔥</h1>
 
-<p align="center">
-<img src='Alienrazor/198284725-31b1b381-bf29-42b0-a468-c4e8b8eaa64c.gif' >
-</p>
-<h1 align=center>🔥PROGRAMMING STYLES ALIENRAZOR🔥</h1>
+
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Alienrazor"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Alienrazor&theme=monokai"></a>
