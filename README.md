@@ -11,11 +11,11 @@
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Alienrazor"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Alienrazor&theme=monokai"></a>
+<a href="https://github.com/Chandro99"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Chandro99&theme=monokai"></a>
 </p>  
 <p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/Alien Razor/count.svg" />
+ >>>RC Training center<<<
+ <img src="https://github.com/Chandro99/Chandro99/blob/main/coding.gif" />
 </p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alienrazor&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
@@ -36,6 +36,6 @@
 <br/><br/>
 </p>
  
-# My Best Fire Tools 🔥
+
 
 
