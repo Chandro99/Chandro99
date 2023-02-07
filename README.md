@@ -12,16 +12,6 @@
 </p>
 
 
-
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Chandro99"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Chandro99&theme=monokai"></a>
-</p>  
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alienrazor&layout=compact&theme=chartreuse-dark" />
-<p align="center"> 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Alienrazor&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
-
 # Languages :
 </p>
 <p align="center">
