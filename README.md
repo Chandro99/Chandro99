@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://chandro.xyz/"><img width="100%" alt="Hello, I'm Chandro. I do open source!" src="https://user-images.githubusercontent.com/52023076/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif" /></a></p>
+<a href="https://chandro.xyz/"><img width="100%" alt="Hello, I'm Chandro. I do open source!" src="https://github.com/Chandro99/Chandro99/blob/main/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif" /></a></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&pause=1000&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hi+I'm+Alienrazor......;I+Do+Open+Source.......;" alt="Typing SVG" /></a>
 
@@ -42,6 +42,3 @@
 # My Best Fire Tools 🔥
 
 
-<h1 align=left>COMMING SOON</h1>
-<p align="center">
-<img src='Alienrazor/IMG_16620368397682635.jpg' style="height:300px;width:300px;" >
